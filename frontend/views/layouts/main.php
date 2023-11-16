@@ -40,6 +40,7 @@ AppAsset::register($this);
         ['label' => 'Wilayah', 'url' => ['/wilayah']],
         ['label' => 'Tindakan', 'url' => ['/tindakan']],
         ['label' => 'Obat', 'url' => ['/obat']],
+        ['label' => 'Tagihan', 'url' => ['/tagihan']],
     ];
 
     $menuItems[] = [
